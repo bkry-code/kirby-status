@@ -10,7 +10,7 @@ With this plugin a page can have 3 different statuses:
 - **Unpublished** - Not public to anyone, like if the page was deleted.
 - **Private** - Public to logged in users.
 
-![](https://github.com/jenstornell/kirby-status/blob/master/docs/status0.2.gif)
+![](https://github.com/bkry-code/kirby-status/blob/master/docs/status0.2.gif)
 
 ## Installation
 
@@ -18,12 +18,12 @@ With this plugin a page can have 3 different statuses:
 
 ## Setup
 
-- [Field](https://github.com/jenstornell/kirby-status/blob/master/docs/FIELD.md)
-- [Page methods](https://github.com/jenstornell/kirby-status/blob/master/docs/PAGE-METHODS.md)
-- [Pages methods](https://github.com/jenstornell/kirby-status/blob/master/docs/PAGES-METHODS.md)
-- [Redirect](https://github.com/jenstornell/kirby-status/blob/master/docs/REDIRECT.md)
-- [Config](https://github.com/jenstornell/kirby-status/blob/master/docs/CONFIG.md)
+- [Field](https://github.com/bkry-code/kirby-status/blob/master/docs/FIELD.md)
+- [Page methods](https://github.com/bkry-code/kirby-status/blob/master/docs/PAGE-METHODS.md)
+- [Pages methods](https://github.com/bkry-code/kirby-status/blob/master/docs/PAGES-METHODS.md)
+- [Redirect](https://github.com/bkry-code/kirby-status/blob/master/docs/REDIRECT.md)
+- [Config](https://github.com/bkry-code/kirby-status/blob/master/docs/CONFIG.md)
 
 ## Changelog
 
-Go to [changelog](https://github.com/jenstornell/kirby-status/blob/master/docs/CHANGELOG.md).
+Go to [changelog](https://github.com/bkry-code/kirby-status/blob/master/docs/CHANGELOG.md).
